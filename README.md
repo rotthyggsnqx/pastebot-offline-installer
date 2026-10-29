@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Clipboard+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Pastebot Free Installer** — Pastebot is a macOS clipboard manager with a powerful filtering system. Works without internet access, no account required. Full offline installation.
+**💻 Pastebot Free Installer** — Pastebot is a macOS clipboard manager that stores a searchable history of copied items and provides a sequence paste feature for pasting multiple items in order. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Pastebot
 
-Pastebot is a macOS clipboard manager with a powerful filtering system. Store unlimited clipboard history, create text transformations that modify pasted content (remove formatting, change case, trim whitespace), and apply sequences of transformations for consistent text cleanup. Pastebot's filter system distinguishes it from simpler clipboard managers for users who frequently process text.
+Pastebot is a macOS clipboard manager that stores a searchable history of copied items and provides a sequence paste feature for pasting multiple items in order. It syncs clipboard history across Macs via iCloud and offers a clean, native macOS interface.
 
 ---
 
 ## ❌ Problem: Pastebot is hard to access
 
-- **macOS Only** — No Windows or iOS version
-- **Commercial License** — Paid application
-- **Learning Investment** — Filter and transformation system requires learning to use effectively
-- **Niche Power Features** — Transformation pipeline most valuable for heavy text processing workflows
+- **macOS Only** — No Windows or Linux version
+- **Paid App** — Requires purchase from Mac App Store
+- **Privacy Concerns** — All copied content including passwords stored in clipboard history
+- **iCloud Dependency** — Cross-device sync relies on iCloud
 
 ---
 
@@ -121,7 +121,7 @@ Pastebot is a macOS clipboard manager with a powerful filtering system. Store un
 
 ---
 
-**Pastebot Free Installer** — Pastebot is a macOS clipboard manager with a powerful filtering system. Install without internet connection today!
+**Pastebot Free Installer** — Pastebot is a macOS clipboard manager that stores a searchable history of copied items and provides a sequence paste feature for pasting multiple items in order. Install without internet connection today!
 
 <div align="center">
 
